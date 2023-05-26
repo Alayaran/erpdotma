@@ -214,10 +214,10 @@ return [
     */
 
     'composer' => [
-        'vendor' => 'nwidart',
+        'vendor' => 'erpdotma',
         'author' => [
-            'name' => 'Nicolas Widart',
-            'email' => 'n.widart@gmail.com',
+            'name' => 'Sanjib Narzary',
+            'email' => 'o-._.-o@live.com',
         ],
         'composer-output' => false,
     ],
